@@ -70,6 +70,22 @@
 
 ---
 
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Tuany-rvlh&layout=compact&theme=tokyonight&title_color=9D4EDD&icon_color=9D4EDD&hide_border=true&bg_color=00000000&langs_count=8" alt="Linguagens mais utilizadas" />
+
+  <img height="165" src="https://streak-stats.demolab.com?user=Tuany-rvlh&theme=tokyonight&hide_border=true&background=00000000&ring=9D4EDD&fire=C77DFF&currStreakLabel=9D4EDD" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <i>💜 Obrigada por visitar meu perfil!</i>
+</p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,100:9D4EDD&height=70&section=footer"/>
