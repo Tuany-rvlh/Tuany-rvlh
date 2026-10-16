@@ -12,7 +12,7 @@
 
 💻 Desenvolvo projetos envolvendo **desenvolvimento web, inteligência artificial, sistemas embarcados e programação**.
 
-🚀 Atualmente desenvolvendo o **Docks**, um sistema de gerenciamento de encomendas para condomínios.
+🚀 Atualmente buscando desenvolver e aprimorar meus conhecimentos técnicos.
 
 🏆 Participante da **PROJETE 2024, 2025 e 2026**, com reconhecimento por projetos desenvolvidos:
 - 🥇 Ganhadora de Inglês (PROJETE 2024)
