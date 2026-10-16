@@ -18,6 +18,8 @@
 - 🥇 Ganhadora de Inglês (PROJETE 2024)
 - 🏅 Melhor Projeto da área de Educação (PROJETE 2025)
 - 🌎 Representante da escola na feira **VIEIRA GAMES**, em Salvador - BA (PROJETE 2025)
+- 🏆 Melhor Relatório Técnico, com o projeto DOCKS, entre as equipes do 3º ano (PROJETE 2026)
+- 🥇 1º lugar em Gestão e Empreendedorismo, em reconhecimento concedido pela FAI – Centro de Ensino Superior em Gestão, Tecnologia e Educação, de Santa Rita do Sapucaí – MG (2026)
 
 🔬 Participante do projeto **Casa Viva - Inatel (2023)**.
 
